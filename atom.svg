@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1080 1080">
+  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+  <defs>
+    <radialGradient id="radial-gradient" cx="522.5" cy="526" fx="522.5" fy="526" r="23.5" gradientUnits="userSpaceOnUse">
+      <stop offset=".3" stop-color="#fbae17"/>
+      <stop offset=".5" stop-color="#fbae17"/>
+      <stop offset=".6" stop-color="#f7ab1c"/>
+      <stop offset=".7" stop-color="#eea32b"/>
+      <stop offset=".7" stop-color="#de9645"/>
+      <stop offset=".8" stop-color="#c78368"/>
+      <stop offset=".9" stop-color="#ab6b95"/>
+      <stop offset="1" stop-color="#894fcc"/>
+      <stop offset="1" stop-color="#7f47dd"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient1" cx="577.5" cy="561" fx="577.5" fy="561" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient2" cx="557.5" cy="525" fx="557.5" fy="525" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient3" cx="542.5" cy="556" fx="542.5" fy="556" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient4" cx="523.5" cy="595" fx="523.5" fy="595" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient5" cx="504.5" cy="562" fx="504.5" fy="562" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient6" cx="560.5" cy="592.1" fx="560.5" fy="592.1" r="23.5" gradientTransform="translate(-50.3 49.7) rotate(-4.9)" xlink:href="#radial-gradient"/>
+  </defs>
+  <g id="background">
+    <rect x="-5.5" y="-.5" width="1092" height="1092" fill="#412915" stroke="#000" stroke-miterlimit="10"/>
+    <g id="rings">
+      <ellipse cx="540.4" cy="545.5" rx="157" ry="428" fill="none" stroke="#f8aea3" stroke-miterlimit="10" stroke-width="4"/>
+      <ellipse cx="539.9" cy="544.9" rx="157" ry="428" transform="translate(-227.2 541.4) rotate(-45)" fill="none" stroke="#f4d4cd" stroke-miterlimit="10" stroke-width="4"/>
+      <ellipse cx="544.9" cy="539.9" rx="428" ry="157" transform="translate(-222.2 543.4) rotate(-45)" fill="none" stroke="#f4d4cd" stroke-miterlimit="10" stroke-width="4"/>
+      <ellipse cx="540.5" cy="545.4" rx="428" ry="157" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="5"/>
+    </g>
+    <g id="kerne">
+      <circle cx="522.5" cy="526" r="23.5" fill="url(#radial-gradient)"/>
+      <circle cx="577.5" cy="561" r="23.5" fill="url(#radial-gradient1)"/>
+      <circle cx="557.5" cy="525" r="23.5" fill="url(#radial-gradient2)"/>
+      <circle cx="542.5" cy="556" r="23.5" fill="url(#radial-gradient3)"/>
+      <circle cx="523.5" cy="595" r="23.5" fill="url(#radial-gradient4)"/>
+      <circle cx="504.5" cy="562" r="23.5" fill="url(#radial-gradient5)"/>
+      <circle cx="558.5" cy="592" r="23.5" fill="url(#radial-gradient6)"/>
+    </g>
+  </g>
+  <g id="poi">
+    <circle id="p8" cx="255.5" cy="425.5" r="11.5" fill="#fbab37"/>
+    <circle id="p7" cx="540.5" cy="388.5" r="11.5" fill="#fbab37"/>
+    <circle id="p6" cx="824.5" cy="425.5" r="11.5" fill="#fbab37"/>
+    <circle id="p5" cx="968" cy="549" r="11.5" fill="#fbab37"/>
+    <circle id="p4" cx="824.5" cy="665.5" r="11.5" fill="#fbab37"/>
+    <circle id="p3" cx="540.5" cy="702.5" r="11.5" fill="#fbab37"/>
+    <circle id="p2" cx="255.5" cy="665.5" r="11.5" fill="#fbab37"/>
+    <circle id="p1" cx="113" cy="549" r="11.5" fill="#fbab37"/>
+  </g>
+</svg>
