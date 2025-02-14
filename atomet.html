@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Untitled Document</title>
+    <script type="text/javascript" src="atomet.js"></script>
+</head>
+
+<body>
+    <section id="container">
+        <div id="map"></div>
+        <article id="info">
+            <p></p>
+            <img src="" alt="">
+        </article>
+    </section>
+</body>
+
+<style>
+    * {
+        box-sizing: border-box;
+    }
+
+    img {
+        max-width: 100%;
+    }
+
+    article {
+        width: 25vw;
+    }
+
+    circle:hover {
+        cursor: pointer;
+        fill: rgb(255, 81, 81);
+    }
+
+    #container {
+        display: grid;
+    }
+
+    #map {
+        grid-area: 1/1;
+    }
+
+    #info {
+        visibility: hidden;
+        grid-area: 1/1;
+        place-self: center;
+        background: white;
+        padding: 10px;
+        border: 1px solid black;
+    }
+</style>
+
+</html>

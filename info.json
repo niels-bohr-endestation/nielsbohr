@@ -1,0 +1,42 @@
+[
+  {
+    "sted": "punkt1",
+    "tekst": "Punkt 1 er et meget spændende sted, med mange interessante informationer",
+    "billede": "eckersberg"
+  },
+  {
+    "sted": "punkt2",
+    "tekst": "Punkt 2 er mindst lige så spændende som punkt 1",
+    "billede": "ib"
+  },
+  {
+    "sted": "punkt3",
+    "tekst": "Punkt 3 er byder på hidtil ukendte informationer om meget interessante emner",
+    "billede": "bonde"
+  },
+  {
+    "sted": "punkt4",
+    "tekst": "Punkt 4 er noget helt for sig selv",
+    "billede": "heerup"
+  },
+  {
+    "sted": "punkt5",
+    "tekst": "Punkt 1 er et meget spændende sted, med mange interessante informationer",
+    "billede": "eckersberg"
+  },
+  {
+    "sted": "punkt6",
+    "tekst": "Punkt 2 er mindst lige så spændende som punkt 1",
+    "billede": "ib"
+  },
+  {
+    "sted": "punkt7",
+    "tekst": "Punkt 3 er byder på hidtil ukendte informationer om meget interessante emner",
+    "billede": "bonde"
+  },
+  {
+    "sted": "punkt8",
+    "tekst": "Punkt 4 er noget helt for sig selv",
+    "billede": "heerup"
+  }
+]
