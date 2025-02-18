@@ -51,6 +51,7 @@ async function runProgram() {
 
       if (selectedId === objekt.sted) {
         document.querySelector("#info p").textContent = objekt.tekst;
+        document.querySelector("#info h1").textContent = objekt.titel;
         document.querySelector("#info img").src = "/billeder/" + objekt.billede + ".jpeg";
         document.querySelector("#info").addEventListener("click", function () {
           document.querySelector("#info").style.visibility = "hidden";

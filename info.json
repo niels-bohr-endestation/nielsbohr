@@ -1,42 +1,50 @@
 [
   {
     "sted": "p1",
-    "tekst": "Punkt 1 er et meget spændende sted, med mange interessante informationer",
+    "titel": "1. Barndom",
+    "tekst": "Niels Henrik David Bohr blev født den 7. Oktober 1885 i København, i en søskendeflok på 3. Niels voksede op i et hjem hvor nysgerrighed og interesse for videnskaben var en stor del af hverdagen, qua hans far der blev nomineret til en nobelpris to gange. Hans far var professor, og hans mor kom fra en velhaverfamilie. Han og hans søskende var meget glade for fodbold, som de brugte meget af deres tid på at spille.",
     "billede": "eckersberg"
   },
   {
     "sted": "p2",
-    "tekst": "Punkt 2 er mindst lige så spændende som punkt 1",
+    "titel": "2. Interesse i fysik og skolegang",
+    "tekst": "Niels var god i skolen, og var nummer ét i sin klasse. Niels læste mere om fysik end det, der stod i skolebøgerne, og han satte noter i skolebøgerne ud fra de ting, han mente var forkerte og forældede. Han brugte tid udenfor skolen i laboratoriet, hvor han blandt andet satte rekord i at knalde glas. Da han afsluttede sit studie på KU, bestemte han sig for at hans speciale skulle handle om metallers forskellige fysiske egenskaber.",
     "billede": "ib"
   },
   {
     "sted": "p3",
-    "tekst": "Punkt 3 er byder på hidtil ukendte informationer om meget interessante emner",
+    "titel": "3. Familien",
+    "tekst": "I 1909 fik Niels sin mastergrad, og mødte kort efter sin bedste vens søster, Margrethe. Fra dét moment, fandtes der ikke andre piger for Niels, end den unge smukke studine med det lyse krøllede hår. De blev forlovet i 1911, samme år som Niels fik sin doktorgrad. På samme tid som den søde tid med Margrethe, planlagde Niels en rejse til udlandet for at fortsætte sin passion for fysik.",
     "billede": "bonde"
   },
   {
     "sted": "p4",
-    "tekst": "Punkt 4 er noget helt for sig selv",
+    "titel": "4. Atommodellen",
+    "tekst": "I April 1912 blev Niels Bohr inviteret til Manchester af Ernest Rutherford, som havde opdaget, at atomet bestod af en positiv ladet kerne, med negativt ladede elektroner. Dette blev Niels Bohrs store gennembrud, da han indså, at sådan et system ville være ustabilt ifølge den klassiske fysik. Derfra arbejde Niels hårdt på at skabe en atommodel, og i 1913 publicerede Niels sin teori om atomer. I løbet af det næste årti blev hans teori videreudviklet og modificeret, og blev senere accepteret i fysikernes kreds.",
     "billede": "heerup"
   },
   {
     "sted": "p5",
-    "tekst": "Punkt 1 er et meget spændende sted, med mange interessante informationer",
+    "titel": "5. Nobelprisen",
+    "tekst": "Niels Bohr modtog i 1922 Nobelprisen i fysik for sit grundige arbejde indenfor forståelsen af atomernes opbygning. Dette gjorde prisen ekstra speciel, da prisen hidtil ikke var givet til opdagelser indenfor kvantefysik. Bohr modtog prisen sammen med vinderen af året foruden - nemlig Albert Einstein. De to delte i løbet af deres liv ikke kun denne ære, men mange diskussioner, dybe snakke og en interesse for atomfysik.",
     "billede": "eckersberg"
   },
   {
     "sted": "p6",
-    "tekst": "Punkt 2 er mindst lige så spændende som punkt 1",
+    "titel": "6. Videre opdagelser",
+    "tekst": "Efter opdagelsen af neutroner i atomers kerner voksede Bohrs interesse for teoretisk fysik igen, og han beskæftigede sig med at undersøge fissionsprocessen. I 1936 formulerede han sin teori kaldet “compound-modellen”, som forklarer hvordan neutroner bliver indfanget af kernen og hvordan denne opfører sig under en reaktion. Denne model samt Bohrs egen dråbemodel forklarede fissionen som process. Derudover brugte Bohr i denne tid mange resourcer på at lave Niels Bohr Instituttet om til at kunne forske i stråling og spaltning af atomer. ",
     "billede": "ib"
   },
   {
     "sted": "p7",
-    "tekst": "Punkt 3 er byder på hidtil ukendte informationer om meget interessante emner",
+    "titel": "7. Krigen og atombomben",
+    "tekst": "Kun få år efter disse revolutionære opdagelser herskede 2. Verdenskrig i mange dele af verden, og kom i 1940 også til Danmark. Niels Bohr flygtede ikke, og havde i årene op til besættelsen hjulpet mange videnskabsfolk med at flygte fra Tyskland. Bohr mente ikke, at opdagelserne inden for atomfysik ville være udviklede nok til at blive brugt til en atombombe, men tog alligevel imod et hemmeligt tilbud fra England efter krigens situation forværrede sig. I USA var han med til at arbejde på det kernevåben, som i sidste ende blev brugt til at angribe Japan, men ikke uden protest. Bohr mente, at Sovjetunionen skulle informeres om fremskridt inden for viden om atomkræft, for at mindske misforståelser og uvished mellem parterne.",
     "billede": "bonde"
   },
   {
     "sted": "p8",
-    "tekst": "Punkt 4 er noget helt for sig selv",
+    "titel": "8. Død",
+    "tekst": "Bohr kæmpede for fredelig brug af atomkræft indtil hans død i 1962. Han oprettede både Forsøgsanlægget Risø, som forskede i netop dette, og var med til at stifte CERN, europæisk center for kerneforskning. Niels Bohr betegnes som en af de største fysikere, ikke bare i Danmark, men i hele det 20. århundrede. ",
     "billede": "heerup"
   }
 ]
