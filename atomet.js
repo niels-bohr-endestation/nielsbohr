@@ -54,8 +54,7 @@ async function runProgram() {
         document.querySelector("#info img").src = "/billeder/" + objekt.billede + ".jpeg";
         document.querySelector("#info").addEventListener("click", function () {
           document.querySelector("#info").style.visibility = "hidden";
-          document.querySelector("#" + selectedId).setAttribute("fill", "#b62300");
-          infoboks.style.visibility = "hidden";
+          document.querySelector("#" + selectedId).setAttribute("fill", "#fbab37");
         });
       }
     });
@@ -71,13 +70,13 @@ async function runProgram() {
 
     //skift farve på det valgte
     //-------------------------------------------------------------------------
-    if (color === "#b62300") {
-      document.querySelector("#" + selectedId).setAttribute("fill", "#123456");
+    if (color === "#fbab37") {
+      document.querySelector("#" + selectedId).setAttribute("fill", "#FFE995");
     }
     //reset farve og skjul tekst hvis valgt elementet allerede er aktivt
     //--------------------------------------------------------------------------
     else {
-      document.querySelector("#" + selectedId).setAttribute("fill", "#b62300");
+      document.querySelector("#" + selectedId).setAttribute("fill", "#FFE995");
     }
   }
 }
