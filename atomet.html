@@ -8,7 +8,13 @@
 </head>
 
 <body>
+    <section id="header">
+        <h1 id="title">Niels Bohr</h1>
+        <h2>1885-1962</h2>
+    </section>
+    <p id="text">Klik på atommodellen for at lære mere om Niels Bohrs liv!</p>
     <section id="container">
+
         <div id="map"></div>
         <article id="info">
             <h1></h1>
@@ -21,6 +27,11 @@
 <style>
     * {
         box-sizing: border-box;
+    }
+
+    #title {
+        color: white;
+        text-align: center;
     }
 
     img {
@@ -38,19 +49,51 @@
 
     #container {
         display: grid;
+        padding: 1rem 30%;
     }
 
     #map {
         grid-area: 1/1;
+        border: solid 2px white;
     }
 
     #info {
         visibility: hidden;
         grid-area: 1/1;
         place-self: center;
-        background: white;
+        background: rgb(252, 233, 207);
         padding: 10px;
-        border: 1px solid black;
+
+    }
+
+    body {
+        background-color: #412915;
+    }
+
+    #header {
+        margin-top: 5rem;
+    }
+
+
+    h1 {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+    h2 {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: white;
+        font-size: medium;
+        text-align: center;
+    }
+
+    p {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: small;
+    }
+
+    #text {
+        color: white;
+        text-align: center;
     }
 </style>
 
